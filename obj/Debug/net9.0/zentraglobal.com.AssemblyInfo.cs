@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zentraglobal.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e57de6feb2077454aebebbb0ce4f55ea3fcfc61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+425ea13504b2658cfc1e278cbcd8cf7959b22f96")]
 [assembly: System.Reflection.AssemblyProductAttribute("zentraglobal.com")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zentraglobal.com")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
