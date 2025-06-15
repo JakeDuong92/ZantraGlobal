@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cps/Documents/GitHub/ZantraGlobal/ZantranGlobal/zentraglobal.com.csproj",
-      "projectName": "zentraglobal.com",
-      "projectPath": "/Users/cps/Documents/GitHub/ZantraGlobal/ZantranGlobal/zentraglobal.com.csproj",
+      "projectUniqueName": "/Users/cps/Documents/GitHub/ZantraGlobal/ZantraGlobal/ZantraBlazor.csproj",
+      "projectName": "ZantraBlazor",
+      "projectPath": "/Users/cps/Documents/GitHub/ZantraGlobal/ZantraGlobal/ZantraBlazor.csproj",
       "packagesPath": "/Users/cps/.nuget/packages/",
-      "outputPath": "/Users/cps/Documents/GitHub/ZantraGlobal/ZantranGlobal/obj/",
+      "outputPath": "/Users/cps/Documents/GitHub/ZantraGlobal/ZantraGlobal/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cps/.nuget/NuGet/NuGet.Config"

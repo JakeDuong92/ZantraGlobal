@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FRP+NF/8GPQ=",
+  "dgSpecHash": "J6HzK6zscIA=",
   "success": true,
-  "projectFilePath": "/Users/cps/Documents/GitHub/ZantraGlobal/ZantranGlobal/zentraglobal.com.csproj",
+  "projectFilePath": "/Users/cps/Documents/GitHub/ZantraGlobal/ZantraGlobal/ZantraBlazor.csproj",
   "expectedPackageFiles": [
     "/Users/cps/.nuget/packages/microsoft.aspnetcore.authorization/9.0.5/microsoft.aspnetcore.authorization.9.0.5.nupkg.sha512",
     "/Users/cps/.nuget/packages/microsoft.aspnetcore.components/9.0.5/microsoft.aspnetcore.components.9.0.5.nupkg.sha512",
